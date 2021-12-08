@@ -1,6 +1,6 @@
 # juejin 默认主题
 
-主题列表：https://github.com/xitu/juejin-markdown-themes
+在尝试自己开发一个 juejin 的 md 主体，开发 ing。。。
 
 ## License
 
